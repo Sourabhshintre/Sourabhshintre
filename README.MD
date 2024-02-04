@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhshintre&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhshintre" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **sourabhshintre7171@gmail.com**
 
